@@ -1,0 +1,48 @@
+This is a text file , created to inform you to login these email-id and passwords , because data is stored in localstorage. and registration feature is not available in this project.
+
+kindly use email and password given below to login.
+
+Data:-
+for employees =[
+    { 
+        id: 1, 
+        name: "John Doe",
+        email: "john.doe@example.com", 
+        password: "123",
+    },   
+    { 
+        id: 2, 
+        name: "Jane Smith",
+        email: "jane.smith@example.com", 
+        password: "123",
+        
+    },
+    { 
+        id: 3, 
+        name: "Mike Johnson",
+        email: "mike.johnson@example.com", 
+        password: "123",
+        tasks: [
+           
+    },
+    { 
+        id: 4, 
+        name: "Emily Brown",
+        email: "emily.brown@example.com", 
+        password: "123",
+        
+    },
+    { 
+        id: 5, 
+        name: "Alex Wilson",
+        email: "alex.wilson@example.com", 
+        password: "123",
+    }   
+  ];
+  
+for admin ={
+    id: 101,
+    email: "admin@example.com",
+    password: "123",
+    name: "Kroloadster"
+  };
